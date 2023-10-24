@@ -1,2 +1,2 @@
 # odin-recipies
-html project for odin
+this is a simple html project for odin
